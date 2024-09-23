@@ -64,7 +64,8 @@ Here is a brief overview of how data structures can be used in Tic Tac Toe:
 •	Usage: The game loop maintains invariants, such as the game not being over : This demonstrates the concept of loop invariants in ensuring algorithm correctness.
 
 
-                                                                            # OUTPUT
+# OUTPUT
+
 ![image](https://github.com/user-attachments/assets/269b1ec2-09d6-413a-b8dc-1a6acd7cd1f5)
 ![image](https://github.com/user-attachments/assets/53c75a98-f4c1-4790-98c1-6b6ccdc6257b)
 ![image](https://github.com/user-attachments/assets/90f536c2-9f1c-40f0-aba1-fb09ef6d5552)
