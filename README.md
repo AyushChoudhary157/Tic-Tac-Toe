@@ -14,65 +14,64 @@ Here is a brief overview of how data structures can be used in Tic Tac Toe:
 
 2.	Enumeration
 
-•	Topic: Enumerated Types
+•	Topic: Enumerated Types <br>
 •	Usage: The Player enum is used to represent cell states:
 •	While not a complex data structure, enums are useful for representing a fixed set of constants.
 
 
 3.	Matrix Traversal
 
-•	Topic: Array Iteration
+•	Topic: Array Iteration <br>
 •	Usage: Used in multiple methods, such as initializeBoard() and isBoardFull():
 •	This demonstrates nested loop traversal of 2D arrays.
 
 
 4.	Linear Search
 
-•	Topic: Searching Algorithms
+•	Topic: Searching Algorithms <br>
 •	Usage: Implemented in isBoardFull() method:
 •	This is a simple linear search to find an empty cell.
 
 
 5.	State Space Search
 
-•	Topic: Game Tree Algorithms
+•	Topic: Game Tree Algorithms <br>
 •	Usage: While not explicitly implemented as a tree, the game logic in play() method explores the game state space:
 •	This is a simplified version of state space search used in game playing algorithms.
 
 
 6.	Boundary Checking
 
-•	Topic: Array Bounds Checking
+•	Topic: Array Bounds Checking <br>
 •	Usage: Implemented in isValidMove() method:
 •	This ensures array accesses are within bounds, a crucial concept in array manipulation.
 
 
 7.	Pattern Matching
 
-•	Topic: String Matching (conceptually similar)
+•	Topic: String Matching (conceptually similar) <br>
 •	Usage: Implemented in checkWin() method:
 •	While not string matching, this is conceptually similar to finding a pattern (three in a row).
 
 
 8.	Game State Representation
 
-•	Topic: State Representation in Game Theory
+•	Topic: State Representation in Game Theory <br>
 •	Usage: The entire board state and current player are represented:
 •	This demonstrates how to represent the state of a game, a key concept in game programming.
 
 
 9.	Greedy Method (conceptually)
 
-•	Topic: Greedy Algorithms
+•	Topic: Greedy Algorithms <br>
 •	Usage: The player makes the best move available at each turn, without looking ahead:
 •	While not a complex greedy algorithm, this approach of making the immediate best move is conceptually similar to greedy methods.
 
 
 10.	Loop Invariants
 
-•	Topic: Algorithm Correctness
-•	Usage: The game loop maintains invariants, such as the game not being over:
-•	This demonstrates the concept of loop invariants in ensuring algorithm correctness.
+•	Topic: Algorithm Correctness <br>
+•	Usage: The game loop maintains invariants, such as the game not being over: This demonstrates the concept of loop invariants in ensuring algorithm correctness.
 
 
                                                                                 OUTPUT
