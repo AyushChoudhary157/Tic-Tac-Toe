@@ -7,7 +7,7 @@ Here is a brief overview of how data structures can be used in Tic Tac Toe:
 
 1.	Arrays
 
-•	Topic: Multi-dimensional Arrays
+•	Topic: Multi-dimensional Arrays \n
 •	Usage: The game board is represented using a 2D array (matrix):
 •	This is a fundamental data structure for representing grid-based games.
 
